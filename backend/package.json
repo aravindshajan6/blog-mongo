@@ -1,12 +1,13 @@
 {
   "name": "backend",
-  "version": "1.0.0",
+  "version": "14.20.1",
   "description": "",
   "main": "server.js",
+  "engine": "14.20.1",
   "scripts": {
     "dev": "nodemon server"
   },
-  "author": "",
+  "author": "Aravind",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
