@@ -1,5 +1,7 @@
 { 
-  "engine": "14.20.1",
+  "engines": {
+    "node": ">=14.20.1"
+  },
 
   "dependencies": {
     "express-validator": "^7.0.1"
